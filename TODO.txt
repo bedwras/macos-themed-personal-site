@@ -1,1 +1,4 @@
 - Make corner buttons more accurate to original macos
+- Fix mobile scrolling issue
+- Fix issue where text can bleed off page
+- Make multiple pages display right
