@@ -15,12 +15,12 @@ body, html {
 }
 
 body {
-    background-image: url(linen_mono.jpg);
+    background-image: url(background\ texture\ test.png);
 }
 
 .page {
     width: 800px;
-    height: 1000px;
+    height: auto;
     background: rgb(255,255,255);
     background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(227,227,227,1) 100%); 
     z-index: 100;
