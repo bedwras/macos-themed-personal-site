@@ -210,3 +210,15 @@ h1, h2, h3, h4, h5, h6 {
     font-size: larger;
 }
 
+.projects-view {
+    
+}
+
+.project-title {
+    text-align: center;
+}
+
+.link-btn {
+    border: gray 1px;
+    background-color: dimgray;
+}
