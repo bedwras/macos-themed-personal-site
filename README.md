@@ -1,3 +1,3 @@
 # macos-themed-personal-site
 
-portfolio site designed to mimic mac os x design
+Projects I've made that I find worth showcasing.
